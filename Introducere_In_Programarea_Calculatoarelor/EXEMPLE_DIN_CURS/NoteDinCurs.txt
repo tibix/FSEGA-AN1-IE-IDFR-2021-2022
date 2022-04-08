@@ -1,0 +1,7 @@
+Tipuri de baza in C
+- integer
+- real
+- character
+- void
+
+:
