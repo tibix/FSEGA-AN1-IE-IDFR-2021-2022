@@ -2,9 +2,9 @@
 
 int main(){
 	int a,b,r;
-	printf("Defineste valoarea lui a=");
+	printf("Defineste valoarea lui a = ");
 	scanf("%d", &a);
-	printf("Defineste valoarea lui b=");
+	printf("Defineste valoarea lui b = ");
 	scanf("%d", &b);
 	while(r=a%b)
 	{

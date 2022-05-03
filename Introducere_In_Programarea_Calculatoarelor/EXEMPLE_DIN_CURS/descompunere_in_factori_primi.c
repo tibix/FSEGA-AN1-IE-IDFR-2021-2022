@@ -5,7 +5,7 @@ void main()
 {
 	int n, divizor=2, putere;
 
-	printf("Introdu valoarea lui n=");
+	printf("Introduceti valoarea lui n = ");
 	scanf("%d", &n);
 
 	do {
@@ -16,7 +16,7 @@ void main()
 			n=n/divizor;
 		}
 		if(putere > 0)
-			printf("divizorul %d cu puterea %d \n", divizor, putere);
+			printf("Divizorul %d cu puterea %d \n", divizor, putere);
 		divizor++;
 
 	}while (n!=1);
