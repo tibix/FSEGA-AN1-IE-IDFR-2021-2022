@@ -4,15 +4,15 @@
 int main()
 {
 	float a,b,c,d,x1,x2,re,im;
-	printf("Citeste a, b si c: ");
+	printf("Citeste valorile lui a, b si c: ");
 	scanf("%f %f %f", &a, &b, &c);
 	if(!a)
 		if(!b)
 			if(!c)
 				printf("Ecuatie nedeterminata!\n");
 			else
-				printf("ecuatie imposibila\n");
-		else printf("ecuatie de gradul 1 cu sol %f\n", -c/b);
+				printf("Ecuatie imposibila\n");
+		else printf("Ecuatie de gradul 1 cu solutia %f\n", -c/b);
 	else
 	{
 		d = b*b-4*a*c;
@@ -24,7 +24,7 @@ int main()
 		}
 		else if(!d)
 		{
-			printf("Solutie reala duble x=%.2f\n", -b/(2*a));
+			printf("Solutie reala dubla x=%.2f\n", -b/(2*a));
 		}
 		else
 		{

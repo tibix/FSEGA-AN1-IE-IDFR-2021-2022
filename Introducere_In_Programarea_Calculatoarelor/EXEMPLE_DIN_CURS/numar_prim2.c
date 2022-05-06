@@ -1,10 +1,10 @@
-#include<stdio.h>
-#include<math.h>
+#include <stdio.h>
+#include <math.h>
 
-void main(void)
+int main(void)
 {
 	int d,n,prim=1;
-	printf("introdu pe n=");
+	printf("Introdu un numar natural pozitiv:\nn = ");
 	scanf("%d", &n);
 	for(d=2;d<sqrt(n)+1;d++)
 		if(!(n%d))
@@ -15,10 +15,11 @@ void main(void)
 		}
 et1:	if(prim)
 	{
-		printf("%d este prim", n);
+		printf("%d este prim\n", n);
 	} else
 	{
-		printf("%d nu este numar prim", n);
+		printf("%d nu este numar prim\n", n);
 	}
 
+	return 0;
 }
