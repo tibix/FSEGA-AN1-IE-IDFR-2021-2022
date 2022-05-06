@@ -3,7 +3,8 @@
 int main()
 {
 	int numar,suma=0;
-	printf("Introdu un numar intreg: ");
+
+	printf("Introdu un numar intreg:\nnumar = ");
 	scanf("%d", &numar);
 
 	do{
