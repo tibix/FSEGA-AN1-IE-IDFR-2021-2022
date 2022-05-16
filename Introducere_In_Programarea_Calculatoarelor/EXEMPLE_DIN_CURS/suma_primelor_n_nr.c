@@ -9,9 +9,9 @@ int main()
 
 	int suma=0;
 
-	for (int i=0; i<=n; i++)
+	for (int i=0; i<=n; )
 	{
-		suma += i;
+		suma += i++;
 	}
 
 	printf("Suma primelor %d numere naturale este %d\n", n,suma);
