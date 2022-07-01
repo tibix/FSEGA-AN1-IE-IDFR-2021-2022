@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1656402740 source:c:\users\tdascal\documents\learning\fsega\fsega-an1-ie-idfr-2021-2022\introducere_in_programarea_calculatoarelor\grile_examen\grile_examen_ipc\1.c
+
+1656402962 source:c:\users\tdascal\documents\learning\fsega\fsega-an1-ie-idfr-2021-2022\introducere_in_programarea_calculatoarelor\grile_examen\grile_examen_ipc\2.c
+	<stdio.h>
+
+1656404137 source:c:\users\tdascal\documents\learning\fsega\fsega-an1-ie-idfr-2021-2022\introducere_in_programarea_calculatoarelor\grile_examen\grile_examen_ipc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1656402806 c:\users\tdascal\documents\learning\fsega\fsega-an1-ie-idfr-2021-2022\introducere_in_programarea_calculatoarelor\grile_examen\grile_examen_ipc\2.c
+	<stdio.h>
+
+1656403282 source:c:\users\tdascal\documents\learning\fsega\fsega-an1-ie-idfr-2021-2022\introducere_in_programarea_calculatoarelor\grile_examen\grile_examen_ipc\3.c
+	<stdio.h>
+
+1656403891 source:c:\users\tdascal\documents\learning\fsega\fsega-an1-ie-idfr-2021-2022\introducere_in_programarea_calculatoarelor\grile_examen\grile_examen_ipc\4.c
+	<stdio.h>
+
+1656412247 source:c:\users\tdascal\documents\learning\fsega\fsega-an1-ie-idfr-2021-2022\introducere_in_programarea_calculatoarelor\grile_examen\grile_examen_ipc\6.c
+	<stdio.h>
+	<string.h>
+
